@@ -27,7 +27,7 @@ body.dark {
 }
 
 body.dark header {
-    background-color: #B8860B;
+    background-color: #eeff00;
     color: #000000;
 }
 
@@ -203,7 +203,7 @@ header img:hover {
 }
 
 #hero p {
-    font-size: 20px;
+    font-size: 40px;
     margin-bottom: 25px;
     max-width: 600px;
     margin-left: auto;
@@ -230,7 +230,9 @@ section h2 {
     margin-bottom: 15px;
     color: #000000;
     transition: color 0.3s ease;
+    font-size: 20px;
 }
+
 
 section h3 {
     margin-top: 15px;
@@ -490,9 +492,12 @@ footer a {
 
 /* === SECTION SUBTITLE === */
 .section-sub {
-    color: #555;
+    color: #000000;
     margin-bottom: 20px;
-    font-size: 15px;
+    font-size: 20px;
+}
+#about p{
+font-size: 20px;
 }
 
 body.dark .section-sub { color: #aaa; }
@@ -614,3 +619,18 @@ body.dark .cta-section { background-color: #1a1a1a; }
 }
 .video:hover{
   transform: translateY(-5px);}
+
+
+
+
+
+  .roro{
+display: flex;
+    justify-content: center;
+    margin: 15px 0;
+    width: 600px;
+    border-radius: 20px;
+}
+
+
+  
