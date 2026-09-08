@@ -628,7 +628,8 @@ body.dark .cta-section { background-color: #1a1a1a; }
 display: flex;
     justify-content: center;
     margin: 15px 0;
-    width: 420px;
+    width: 420px ;
+    max-width: 100%;
     border-radius: 20px;
 }
 
